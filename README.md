@@ -10,6 +10,6 @@ Format example: [[2,3], [1,3,3], [3,2]].
 Notice this nested array has three array elements which stands for three lines, and each array element contains numbers for how many syllables you want for each line of words. Add more lines or change the numbers to create your own format! 
 
 Download this project, make sure you have nodeJS and underscore.js installed. In command line: 
-<p>node haiku.js generate[[2,3], [1,3,3], [3,2]]</p>
+<strong>node haiku.js generate[[2,3], [1,3,3], [3,2]]</strong>
 
 -> replace '[[2,3], [1,3,3], [3,2]]' with your format! Have fun (:
