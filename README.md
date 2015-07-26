@@ -13,4 +13,6 @@ Download this project, make sure you have nodeJS and underscore.js installed. In
 
 <strong>node haiku.js generate[[2,3], [1,3,3], [3,2]]</strong>
 
--> replace '[[2,3], [1,3,3], [3,2]]' with your format! Have fun (:
+-> replace '[[2,3], [1,3,3], [3,2]]' with your format! 
+
+*The program may run for 5 - 10 seconds.Be patient. Have fun! (:
